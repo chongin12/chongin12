@@ -1,34 +1,37 @@
+# Jeong Chongin (Chongin12)
+### BLOG : [TiStory](https://sunrinnote.tistory.com/)
+### SNS : [Instagram](https://www.instagram.com/chongin12/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchongin12&count_bg=%2379C83D&title_bg=%23555555&icon=awesomelists.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</br></br>
+# My Skills
+## 1. Problem Solving
+> C/C++, Python
+#### BOJ Handle : [chongin12](https://www.acmicpc.net/user/chongin12)
+#### Source codes : https://github.com/chongin12/Problem_Solving
 
-<div align="center"> <h2> SNS </h2> </div>
-<br>
-<div align="center">
-  <a href="https://sunrinnote.tistory.com/"> 
-    <img src=https://img.shields.io/badge/blog-tistory-brightgreen?style=for-the-badge> 
-  </a>
-  <a href="https://www.instagram.com/chongin12/">
-    <img src=https://img.shields.io/badge/instagram-critical?style=for-the-badge&logo=instagram&logoColor=white>
-  </a>
-</div>
-<br>
-<br>
-<div align="center"> <h2> E-mail </h2> </div>
-<br>
-<div align="center">
-  chongin12@naver.com
-</div>
-<br>
-<div align="center"> <h2> Main Language </h2> </div>
-<br>
-<div align="center">
-  <img src=https://img.shields.io/badge/C++-skyblue?style=for-the-badge>
-  <img src=https://img.shields.io/badge/Swift-orange?style=for-the-badge>
-</div>
-<br>
-<div align="center"> <h2> Main Skill </h2> </div>
-<br>
-<div align="center">
-  <a href="https://acmicpc.net/user/chongin12"> 
-    <img src=https://img.shields.io/badge/Algorithm-skyblue?style=for-the-badge> 
-  </a>
-  <img src=https://img.shields.io/badge/iOS-orange?style=for-the-badge>
-</div>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chongin12)](https://solved.ac/chongin12)
+
+## 2. iOS / Swift
+https://github.com/yourssu
+</br></br>
+# Github
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=chongin12)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chongin12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</br></br>
+# Career
+I'm new 😁
+</br></br>
+# School
+* (2016.03 ~ 2019.02) Sunrin Internet High School, Department of Information and Communication
+* (2019.03 ~ ) Soongsil University, Department of Computer Science and Engineering
+</br></br>
+# Activity
+* (2017~2018) Clash Royale (Mobile Game) national team player of Korea
+* (2019.05 ~ 2019.11) Software Maestro 10th : team 시시시
+* (2020.07) SKH Algorithm Summer Camp Management (Server Management)
+* (2020.10.19 ~ 2022.04.18) KOREA ARMY (CERT, ARMY Sergeant)
+</br></br>
+# Awards
+* (2019.05.31) Soongsil University Python경진대회 (장려상)
+* (2019.10.05) 2019 ACM/ICPC Seoul Regional (3rd in school)
+* (2019.11.08) 2019 ACM/ICPC Seoul Regional (63th)
