@@ -13,6 +13,9 @@
 
 ## 2. iOS / Swift
 https://github.com/yourssu
+## 3. Flutter / Dart
+app : [Tomorrow Diary](https://github.com/osamhack2021/app_TomorrowDiary_TomorrowDiary)
+opensource package : [simple_quick_calendar](https://pub.dev/packages/simple_quick_calendar)
 </br></br>
 # Github
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=chongin12)](https://github.com/anuraghazra/github-readme-stats)
@@ -28,6 +31,7 @@ I'm new 😁
 # Activity
 * (2017~2018) Clash Royale (Mobile Game) national team player of Korea
 * (2019.05 ~ 2019.11) Software Maestro 10th : team 시시시
+* (2019.09 ~) joined YOURSSU of Soongsil University (iOS Dev.)
 * (2020.07) SKH Algorithm Summer Camp Management (Server Management)
 * (2020.10.19 ~ 2022.04.18) KOREA ARMY (CERT, ARMY Sergeant)
 </br></br>
