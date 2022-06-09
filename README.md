@@ -35,7 +35,7 @@ I'm new 😁
 * (2019.05 ~ 2019.11) Software Maestro 10th : team 시시시
 * (2019.09 ~) joined YOURSSU of Soongsil University (iOS Dev.)
 * (2020.07) SKH Algorithm Summer Camp Management (Server Management)
-* (2020.10.19 ~ 2022.04.18) KOREA ARMY (CERT, ARMY Sergeant)
+* (2020.10.19 ~ 2022.04.18) KOREAN ARMY (CERT, ARMY Sergeant)
 </br></br>
 # 🎁 Awards 🎁
 * (2019.05.31) Soongsil University Python경진대회 (장려상)
