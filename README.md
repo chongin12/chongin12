@@ -11,10 +11,15 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chongin12)](https://solved.ac/chongin12)
 
-## 2. iOS / Swift 🍎
-https://github.com/yourssu
+## 2. Spring Boot 🌱
+[Spring Boot Webservice CRUD](https://github.com/chongin12/springboot-webservice)<br>
+Spring Boot, Gradle, JPA, OAuth
 
-## 3. Flutter / Dart 🎯
+## 3. iOS / Swift 🍎
+https://github.com/yourssu
+MVVM, Coordinator, RxSwift
+
+## 4. Flutter / Dart 🎯
 app : [Tomorrow Diary](https://github.com/osamhack2021/app_TomorrowDiary_TomorrowDiary)
 </br>
 opensource package : [simple_quick_calendar](https://pub.dev/packages/simple_quick_calendar)
@@ -31,11 +36,12 @@ I'm new 😁
 * (2019.03 ~ ) Soongsil University, Department of Computer Science and Engineering
 </br></br>
 # 🎡 Activity 🎡
-* (2017~2018) Clash Royale (Mobile Game) national team player of Korea
+<!-- * (2017~2018) Clash Royale (Mobile Game) national team player of Korea -->
 * (2019.05 ~ 2019.11) Software Maestro 10th : team 시시시
-* (2019.09 ~) joined YOURSSU of Soongsil University (iOS Dev.)
+* (2019.09 ~) joined YOURSSU of Soongsil University (iOS Dev., Vice Lead(2022.07 ~))
 * (2020.07) SKH Algorithm Summer Camp Management (Server Management)
-* (2020.10.19 ~ 2022.04.18) KOREAN ARMY (CERT, ARMY Sergeant)
+<!-- * (2020.10.19 ~ 2022.04.18) KOREAN ARMY (CERT, ARMY Sergeant) -->
+* (2022.07 ~) Researching "Development of monitoring verification technology for digital media usage analysis in OTT environment" in Soongsil Univ.
 </br></br>
 # 🎁 Awards 🎁
 * (2019.05.31) Soongsil University Python경진대회 (장려상)
