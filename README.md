@@ -40,11 +40,13 @@ I'm new 😁
 # 🎡 Activity
 <!-- * (2017~2018) Clash Royale (Mobile Game) national team player of Korea -->
 * (2019.05 ~ 2019.11) Software Maestro 10th : team 시시시
-* (2019.09 ~) joined YOURSSU of Soongsil University (iOS Dev., Vice Lead(2022.07 ~))
+* (2019.09 ~) joined YOURSSU of Soongsil University (iOS Dev., Vice Lead(2022.07 ~ 2022.12), Lead(2023.01 ~))
 * (2020.07) SKH Algorithm Summer Camp Management (Server Management), [알고리즘 대회 채점 환경 구성하기 with Docker, Domjudge](https://docs.google.com/document/d/1hzp67Ql6v2tEx6eM-SXVxrL2slnJblls/edit?usp=sharing&ouid=101247700334495646341&rtpof=true&sd=true)
 * (2022.07 ~) Researching "Development of monitoring verification technology for digital media usage analysis in OTT environment" in Soongsil Univ.
 </br></br>
 # 🎁 Awards
 * (2019.05.31) Soongsil University Python 경진대회 (장려상)
-* (2019.10.05) 2019 ACM/ICPC Seoul Regional (3rd in school)
+* (2019.10.05) 2019 ACM/ICPC Seoul Regional First Round (3rd in school)
 * (2019.11.08) 2019 ACM/ICPC Seoul Regional (63th)
+* (2022.10.08) 2022 ICPC Seoul Regional First Round (38th)
+* (2022.11.19) 2022 ICPC Asia Seoul Regional Contest (34th)
