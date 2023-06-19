@@ -49,3 +49,4 @@ I'm new 😁
 * (2019.11.08) 2019 ACM/ICPC Seoul Regional (63th)
 * (2022.10.08) 2022 ICPC Seoul Regional First Round (3rd in school, 38th)
 * (2022.11.19) 2022 ICPC Asia Seoul Regional Contest (34th)
+* (2023.05.20) 2023 SCON: Soongsil Programming Contest (1st)
