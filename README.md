@@ -41,7 +41,7 @@ I'm new 😁
 * (2019.05 ~ 2019.11) Software Maestro 10th : team 시시시
 * (2019.09 ~) joined YOURSSU of Soongsil University (iOS Dev., Vice Lead(2022.07 ~ 2022.12), Lead(2023.01 ~))
 * (2020.07) SKH Algorithm Summer Camp Management (Server Management), [알고리즘 대회 채점 환경 구성하기 with Docker, Domjudge](https://docs.google.com/document/d/1hzp67Ql6v2tEx6eM-SXVxrL2slnJblls/edit?usp=sharing&ouid=101247700334495646341&rtpof=true&sd=true)
-* (2022.07 ~) Researching "Development of monitoring verification technology for digital media usage analysis in OTT environment" in Soongsil Univ. OSLAB
+* (2022.07 ~) Researching "Development of monitoring verification technology for digital media usage analysis in OTT environment" in OSLAB, Soongsil Univ. (Undergraduate research student)
 </br></br>
 # 🎁 Awards
 * (2019.05.31) Soongsil University Python 경진대회 (장려상)
