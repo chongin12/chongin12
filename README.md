@@ -50,3 +50,4 @@ I'm new 😁
 * (2022.10.08) 2022 ICPC Seoul Regional First Round (3rd in school, 38th)
 * (2022.11.19) 2022 ICPC Asia Seoul Regional Contest (34th)
 * (2023.05.20) 2023 SCON: Soongsil Programming Contest (1st)
+* (2023.11.15) 2023 문화체육관광부 문화데이터활용경진대회 "LocalHoliday" - 한국문화정보원장상 장려상
