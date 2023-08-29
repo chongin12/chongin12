@@ -44,6 +44,7 @@ I'm new 😁
 * (2022.07 ~) Researching "Development of monitoring verification technology for digital media usage analysis in OTT environment" in OSLAB, Soongsil Univ. (Undergraduate research student)
 </br></br>
 # 🎁 Awards
+* (2019.05.25) 2019 SCON: Soongsil Programming Contest (2nd)
 * (2019.05.31) Soongsil University Python 경진대회 (장려상)
 * (2019.10.05) 2019 ACM/ICPC Seoul Regional First Round (3rd in school)
 * (2019.11.08) 2019 ACM/ICPC Seoul Regional (63th)
