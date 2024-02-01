@@ -42,6 +42,7 @@ I'm new 😁
 * (2019.09 ~) joined YOURSSU of Soongsil University (iOS Dev., Vice Lead(2022.07 ~ 2022.12), Lead(2023.01 ~))
 * (2020.07) SKH Algorithm Summer Camp Management (Server Management), [알고리즘 대회 채점 환경 구성하기 with Docker, Domjudge](https://docs.google.com/document/d/1hzp67Ql6v2tEx6eM-SXVxrL2slnJblls/edit?usp=sharing&ouid=101247700334495646341&rtpof=true&sd=true)
 * (2022.07 ~) Researching "Development of monitoring verification technology for digital media usage analysis in OTT environment" in OSLAB, Soongsil Univ. (Undergraduate research student)
+* (2023.10 ~) GDSC (Google Developer Student Club) in Soongsil University (member)
 * (2024.03 ~) Apple Developer Academy 2024 (student)
 </br></br>
 # 🎁 Awards
