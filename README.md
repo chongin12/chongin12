@@ -98,10 +98,15 @@ I'm new 😁
 </br></br>
 
 # 🎡 Activity
-<!-- * (2017~2018) Clash Royale (Mobile Game) national team player of Korea -->
-### (2019.05 ~ 2019.11) Software Maestro 10th : team 시시시
-  - An innovative item inference and idea expansion solution for people in need of ideas, utilizing word-based relational network technology and user big data analysis.
-  - Patent application: A method and system for providing related keywords for keywords entered by users to derive ideas.
+
+### (2024.03 ~) Apple Developer Academy 2024  (Junior Learner)
+### (2023.10 ~) GDSC (Google Developer Student Club) in Soongsil University (Member)
+### (2022.07 ~ 2024.02) Researching "Development of monitoring verification technology for digital media usage analysis in OTT environment" in OSLAB, Soongsil Univ. (Undergraduate research student)
+  - Participated in a project for the development of monitoring verification technology for analyzing the use of digital media in OTT environments
+    - Ministry of Science and ICT, Institute for Information & communications Technology Planning & Evaluation, Shopcast Co., Ltd.
+  - ReplayKit, Broadcast Extension, audio signal processing, TCP real-time socket communication, porting of external static libraries
+### (2020.07) SKH Algorithm Summer Camp Management (Server Management)
+  - [알고리즘 대회 채점 환경 구성하기 with Docker, Domjudge](https://docs.google.com/document/d/1hzp67Ql6v2tEx6eM-SXVxrL2slnJblls/edit?usp=sharing&ouid=101247700334495646341&rtpof=true&sd=true)
 ### (2019.09 ~) joined YOURSSU of Soongsil University (iOS Dev., Vice Lead(2022.07 ~ 2022.12), Lead(2023.01 ~ 2023.12.31))
   - Maintenance of the campus community app "숨쉴때" (Soomsil)
     - UIKit, MVVM-C, RxSwift
@@ -111,14 +116,11 @@ I'm new 😁
     - [GitHub Link](https://github.com/yourssu/YDS-iOS)
     - [App Store Link](https://apps.apple.com/kr/app/yds-storybook/id1584167620)
     - Addition of design system and components for SwiftUI
-### (2020.07) SKH Algorithm Summer Camp Management (Server Management)
-  - [알고리즘 대회 채점 환경 구성하기 with Docker, Domjudge](https://docs.google.com/document/d/1hzp67Ql6v2tEx6eM-SXVxrL2slnJblls/edit?usp=sharing&ouid=101247700334495646341&rtpof=true&sd=true)
-### (2022.07 ~ 2024.02) Researching "Development of monitoring verification technology for digital media usage analysis in OTT environment" in OSLAB, Soongsil Univ. (Undergraduate research student)
-  - Participated in a project for the development of monitoring verification technology for analyzing the use of digital media in OTT environments
-    - Ministry of Science and ICT, Institute for Information & communications Technology Planning & Evaluation, Shopcast Co., Ltd.
-  - ReplayKit, Broadcast Extension, audio signal processing, TCP real-time socket communication, porting of external static libraries
-### (2023.10 ~) GDSC (Google Developer Student Club) in Soongsil University (member)
-### (2024.03 ~) Apple Developer Academy 2024  (junior learner)
+### (2019.05 ~ 2019.11) Software Maestro 10th : team 시시시
+  - An innovative item inference and idea expansion solution for people in need of ideas, utilizing word-based relational network technology and user big data analysis.
+  - Patent application: A method and system for providing related keywords for keywords entered by users to derive ideas.
+<!-- * (2017~2018) Clash Royale (Mobile Game) national team player of Korea -->
+
 </br></br>
 
 # 🎁 Awards
