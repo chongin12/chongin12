@@ -1,4 +1,4 @@
-# 😎 Jeong Chongin (Chongin12)
+# 😎 Jeong Chongin (Mosu)
 
 > 👏 I am interested in SwiftUI, software architecture, and modularization.
 
