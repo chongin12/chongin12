@@ -71,7 +71,7 @@ I'm new 😁
 
 # 🎡 Activity
 
-### (2024.03 ~) Apple Developer Academy 2024  (Junior Learner)
+### (2024.03 ~)  Apple Developer Academy @ POSTECH (Junior Learner)
 ### (2023.10 ~) GDSC (Google Developer Student Club) in Soongsil University (Member)
 ### (2022.07 ~ 2024.02) Researching "Development of monitoring verification technology for digital media usage analysis in OTT environment" in OSLAB, Soongsil Univ. (Undergraduate research student)
   - Participated in a project for the development of monitoring verification technology for analyzing the use of digital media in OTT environments
